@@ -12,7 +12,11 @@
   1. 게시글 작성, 조회, 수정, 삭제(CRUD)
   2. 간단한 회원 관리(회원가입, 로그인)
   3. 게시글 목록 페이징 처리
-  4. 데이터베이스(MySQL) 연동
+  4. 추천 기능
+  5. 앵커 기능
+  6. 마크다운 기능
+  7. 검색 기능
+  8. 데이터베이스(MySQL) 연동
 - **학습 포인트**:
   - Spring Boot 기본 구조 이해 (Controller, Service, Repository)
   - JPA/Hibernate를 이용한 DB 연동
