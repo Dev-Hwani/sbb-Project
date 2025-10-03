@@ -21,7 +21,7 @@
   - Spring Boot 기본 구조 이해 (Controller, Service, Repository)
   - JPA/Hibernate를 이용한 DB 연동
   - Thymeleaf를 활용한 동적 HTML 렌더링
-  - RESTful 설계 이해 및 간단한 API 구현, JSP 구현
+  - RESTful 설계 이해 및 간단한 API 구현
 
 ---
 
